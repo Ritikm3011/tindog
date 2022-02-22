@@ -71,6 +71,13 @@ h3 {
   font-weight: bold;
 }
 
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 3rem;
+    font-size: 2rem;
+}
+
 p{
     color: rgba(41, 41, 41, 0.952);
 }
@@ -83,4 +90,34 @@ p{
 .f-icon:hover {
     
     color: #ff4c68;
+}
+
+/* Testimonials section */
+#testimonials {
+    
+    text-align: center;
+    background-color: #ff4c68;   
+    color:#fff; 
+}
+
+.testimonial-img {
+    width: 25%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* press */
+#press {
+    text-align: center;
+    background-color: #ff4c68;
+    padding-bottom: 4%;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 25px 50px;
 }
