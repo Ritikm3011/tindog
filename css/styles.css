@@ -105,7 +105,9 @@ p{
     border-radius: 100%;
     margin: 20px;
 }
-
+.carousel-item {
+    padding: 7% 15%;
+}
 /* press */
 #press {
     text-align: center;
@@ -113,9 +115,7 @@ p{
     padding-bottom: 4%;
 }
 
-.carousel-item {
-    padding: 7% 15%;
-}
+
 
 .press-logo {
     width: 15%;
