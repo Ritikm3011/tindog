@@ -142,3 +142,30 @@ p {
 .pricing-col {
     padding: 3% 2%;
 }
+
+
+
+/* Call to Action */
+
+#cta {
+background-color: #ff4c68;
+text-align: center;
+color: #fff;
+padding: 7% 2%;
+}
+.cta-h3 {
+    font-size: 3rem;
+}
+
+
+/* Footer */
+#footer {
+    /* background-color: #fff; */
+    /* height: 10rem; */
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 20px 12px;
+}
