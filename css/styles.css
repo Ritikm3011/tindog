@@ -23,8 +23,7 @@ h1 {
     font-size: 3.2rem;
     line-height: 1.5;
     font-weight: bold;
-    color: #fff
-    ;
+    color: #fff;
 }
 
 .container-fluid {
@@ -32,13 +31,19 @@ h1 {
 }
 
 .rotated {
+
     transform: rotate(20deg);
     width: 60%;
     /* align-items: center; */
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+    /* margin-bottom: -10px; */
+    right: 30%;
+  
+   
+
+
 
 }
 
@@ -50,14 +55,17 @@ h1 {
 
 /* Download button  */
 
-.download-button  {
-    
+.download-button {
+
     margin: 5% 3% 5% 0;
 }
 
 /* features section */
 #features {
-     padding: 5%;
+    padding: 5%;
+    background-color: #fff;
+    
+
 }
 
 .feature-box {
@@ -68,7 +76,7 @@ h1 {
 h3 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.6rem;
-  font-weight: bold;
+    font-weight: bold;
 }
 
 h2 {
@@ -78,7 +86,7 @@ h2 {
     font-size: 2rem;
 }
 
-p{
+p {
     color: rgba(41, 41, 41, 0.952);
 }
 
@@ -88,16 +96,16 @@ p{
 }
 
 .f-icon:hover {
-    
+
     color: #ff4c68;
 }
 
 /* Testimonials section */
 #testimonials {
-    
+
     text-align: center;
-    background-color: #ff4c68;   
-    color:#fff; 
+    background-color: #ff4c68;
+    color: #fff;
 }
 
 .testimonial-img {
@@ -105,9 +113,11 @@ p{
     border-radius: 100%;
     margin: 20px;
 }
+
 .carousel-item {
     padding: 7% 15%;
 }
+
 /* press */
 #press {
     text-align: center;
