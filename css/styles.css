@@ -84,7 +84,7 @@ p{
 
 .f-icon {
     margin-bottom: 1rem;
-    color: #ef8172;
+    color: #fd8171;
 }
 
 .f-icon:hover {
@@ -120,4 +120,15 @@ p{
 .press-logo {
     width: 15%;
     margin: 20px 25px 50px;
+}
+
+/* pricing section  */
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col {
+    padding: 3% 2%;
 }

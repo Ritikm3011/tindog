@@ -1,2 +1,2 @@
-TinDog Starting Files
-Date: 22.Feb.2022
+- TinDog Starting Files
+- Starting Date: 22.Feb.2022
