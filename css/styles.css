@@ -2,7 +2,34 @@ body {
     font-family: 'Montserrat', sans-serif;
 
 }
+.main-heading {
+     font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight: bold;
+    color: #fff;
+}
 
+h1,h2,h3 {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+h3 {
+    
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+h2 {
+    
+    font-weight: 500;
+    line-height: 3rem;
+    font-size: 2rem;
+}
+
+p {
+    color: rgba(41, 41, 41, 0.952);
+}
 
 #title {
     background-color: #ff4c68;
@@ -18,13 +45,7 @@ body {
     font-size: 2.4rem;
 }
 
-h1 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 3.2rem;
-    line-height: 1.5;
-    font-weight: bold;
-    color: #fff;
-}
+
 
 .container-fluid {
     padding: 3% 12%;
@@ -40,8 +61,8 @@ h1 {
     margin-right: auto;
     /* margin-bottom: -10px; */
     right: 30%;
-  
-   
+
+
 
 
 
@@ -64,7 +85,7 @@ h1 {
 #features {
     padding: 5%;
     background-color: #fff;
-    
+
 
 }
 
@@ -73,22 +94,9 @@ h1 {
     padding: 5%;
 }
 
-h3 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.6rem;
-    font-weight: bold;
-}
 
-h2 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    line-height: 3rem;
-    font-size: 2rem;
-}
 
-p {
-    color: rgba(41, 41, 41, 0.952);
-}
+
 
 .f-icon {
     margin-bottom: 1rem;
@@ -148,11 +156,12 @@ p {
 /* Call to Action */
 
 #cta {
-background-color: #ff4c68;
-text-align: center;
-color: #fff;
-padding: 7% 2%;
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    padding: 7% 2%;
 }
+
 .cta-h3 {
     font-size: 3rem;
 }
